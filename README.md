@@ -1,6 +1,6 @@
 
-# Spotify-API-App
-Angular app which utilizes the Spotify WEB API to allow users to search for music
+# Dequetify
+Angular app which utilizes the Spotify WEB API to allow users to search for albums and artists
 
 ## Project
 
@@ -14,26 +14,9 @@ Users can search for:
 
 - Album and get a list of songs in that album
 
-Users can also preview songs
-
-## TODO
-
-* ~~Web page design~~
-
-* ~~Integrate API~~
-
-* ~~Search component~~
-
-* ~~Search Results Display~~
-* ~~Artist Component~~
-* ~~Artist Data and Albums Display~~
-* ~~Album Component~~
-* ~~Album Tracks Display~~
-* ~~Preview Tracks~~
-
 ## Getting Started
 
-Download or clone the repository `https://github.com/Pierre-D-G/Spotify-API-App.git`
+Download or clone the repository
 
 Run `npm install` to install required dependancies
 
