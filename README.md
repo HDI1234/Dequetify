@@ -1,5 +1,6 @@
 
 # Dequetify
+
 Angular app which utilizes the Spotify WEB API to allow users to search for albums and artists
 
 ## Project
